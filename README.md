@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, te saluda Marcos solis</h1>
-<h4 align="center">Soy un desarrollador Full Stack. Trabajo en tecnologías como JavaScript, React, Next js, SQL, entre otras tecnologías. Me interesa la interfaz y experiencia de usuario, sobre todo,siempre aprendiendo y perfeccionando metodologías para una mejor productividad y capacidad de escribir código.
+<h4 align="left">Soy un desarrollador Full Stack con experiencia en tecnologías como JavaScript, React, Next.js y SQL, entre otras. Me apasiona crear interfaces de usuario geniales y experiencias que sorprendan a los usuarios. Siempre estoy buscando formas de mejorar mi productividad y habilidades a la hora de escribir codigo.
 </h4>
-<h4 align="center">Actualmente me gradué del Coding Bootcamp de Plataforma5 como Desarrollador Full Stack 🧑‍🎓, en el cual pasé más de 800 horas en código.
-</h4>
-<h4 align="center">Siempre estoy buscando aprender mucho más sobre este mundo de la programación que es tan grande. Sobre todo, siempre aprendiendo y perfeccionando tecnologias o habilidades para una mejor productividad y capacidad de escribir código.
+
+<h4>Actualmente me gradué del Coding Bootcamp de Plataforma5 como Desarrollador Full Stack 🧑‍🎓, en el cual pasé más de 800 horas en código.</h4>
+
+<h4>Siempre estoy buscando aprender mucho más sobre este mundo de la programación que es tan grande. Me interesa aprender sobre las últimas tendencias y tecnologías en programación, buscando oportunidades para crecer tanto profesionalmente como persona.
 </h4>
 
 - 📫 Podes contactarme a **marcossolis023@gmail.com**
